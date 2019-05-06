@@ -3,7 +3,7 @@ This aims to provide the deaf with an affordable solution for their day-to-day c
 Being an advocate of participating in inclusive initiatives as a completely blind person myself, this project can assist them when they need to talk to persons who are not deaf and do not know how to use sign language.
 
 A wearable form factor will provide the deaf with optimum convenience while walking around and communicating with non-deaf individuals.
--  This is a more convenient solution, as opposed to deaf persons regularly taking out their smartphones while walking around just to know what others around them are saying;
+-  This is a more convenient solution, as opposed to deaf persons regularly taking out their smartphones while walking around just to know what others are saying;
 -  This is also a much safer solution because they won't be required to take out their smartphones each time they need to ask questions or talk to random strangers, especially in certain neighborhoods here in Metro Manila where violent crooks are out to steal expensive smartphones from random passersby (my blindness was caused by an incident of senseless violence); and
 -  I also don't want them to hand over their smartphones to complete strangers just so the non-deaf can type what they want to say.
 
