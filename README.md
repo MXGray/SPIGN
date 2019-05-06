@@ -2,6 +2,8 @@ This aims to provide the deaf with an affordable solution for their day-to-day c
 
 Being an advocate of participating in inclusive initiatives as a completely blind person myself, this project can assist them when they need to talk to persons who are not deaf and do not know how to use sign language.
 
+This video shows the target objectives of this project:  https://www.youtube.com/tv#/watch?v=ZKyBpG97Y-0
+
 A wearable form factor will provide the deaf with optimum convenience while walking around and communicating with non-deaf individuals.
 -  This is a more convenient solution, as opposed to deaf persons regularly taking out their smartphones while walking around just to know what others are saying;
 -  This is also a much safer solution because they won't be required to take out their smartphones each time they need to ask questions or talk to random strangers, especially in certain neighborhoods here in Metro Manila where violent crooks are out to steal expensive smartphones from random passersby (my blindness was caused by an incident of senseless violence); and
@@ -25,3 +27,7 @@ Though of course, many deaf persons still prefer using sign language to converse
 -  I also aim to support other sign languages aside from ASL; and
 -  Remote manual interpreting assistance through professional interpreters, volunteers and the deaf person's own peers, anywhere in the world, will be done through Skype's video calling feature.
 
+Also, this live video demo shows a very raw, very preliminary prototype:  https://www.youtube.com/tv#/watch?v=dZ9ARrobKMs
+-  The first part of the live video demo is a custom voice-cloning Tagalog (Filipino text-to-speech AI model;
+-  Using just 5 minutes worth of raw audio recordings taken from Youtube as training data, this AI model learned to synthesize previously unseen text inputs as the voice of Ted Failon, a popular TV news broadcaster here in the Philippines; and
+-  The latter part of this live video demo shows a fine-tuned object recognition AI model trained on ASL finger-spelled alphabet gestures.
