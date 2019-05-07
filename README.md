@@ -1,6 +1,6 @@
-This aims to provide the deaf with an affordable solution for their day-to-day communication activities with non-deaf persons.
+This aims to provide the deaf with an affordable solution for their day-to-day communication activities while on the move.
 
-Being an advocate of participating in inclusive initiatives as a completely blind person myself, this project can assist them when they need to talk to persons who are not deaf and do not know how to use sign language.
+Being an advocate of participating in inclusive initiatives as a completely blind person myself — This project can assist the deaf when they need to talk to persons who are not deaf and do not know how to use sign language.
 
 This video shows the target objectives of this project:  https://www.youtube.com/tv#/watch?v=ZKyBpG97Y-0
 
@@ -19,7 +19,7 @@ Right now, this translates voice input into sign language, which is shown to the
 I used the Microsoft CIS Speech API for speech-to-text conversion; and
 -  Meanwhile, I used a custom script to convert text into finger-spelled ASL (American Sign Language).
 
-Though of course, many deaf persons still prefer using sign language to converse with the non-deaf.
+Though of course, many deaf persons still prefer using sign language to converse with others (including the non-deaf).
 -  And this is why I'm still working on offline ASL gesture detection and recognition;
 -  This will use the camera of these eyeglasses to detect, recognize and convert the user's ASL gestures into spoken audio for the other person to hear;
 -  So I'll continue to fine-tune a Mask RCNN model for this;
